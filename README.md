@@ -1,0 +1,1 @@
+Your task is three-fold. First, you must understand Nayves Baynes in data mining, using either the recommended text or any other resources you can find. Second, you must apply this topic to a data set of your choice and compare and contrast your results with those obtained using Decision Tree Method. Finally, you must demonstrate some level of data preprocessing.
